@@ -3,4 +3,3 @@ Customize Terminal In Windows, By Your Way!
 
 '''bash
 hi
-h
